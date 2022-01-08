@@ -67,11 +67,6 @@ function MenuOne() {
                                     <a className="nav-link">Token api</a>
                                 </Link>
                             </li>
-                            <li className="nav-item">
-                                <Link href="/g-form">
-                                    <a className="nav-link">g form</a>
-                                </Link>
-                            </li>
                         </ul>
                     </div>
                 </nav> : null
